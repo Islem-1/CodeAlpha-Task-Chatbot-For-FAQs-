@@ -32,8 +32,6 @@ The model is trained on the provided dataset to improve its performance in answe
 
 Follow these steps to set up the project locally:
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/mental-health-faq-chatbot.git
+   git clone https://github.com/Islem-1/mental-health-faq-chatbot.git
    cd mental-health-faq-chatbot
+   
