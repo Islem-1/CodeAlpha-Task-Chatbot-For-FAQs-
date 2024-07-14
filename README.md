@@ -32,6 +32,6 @@ The model is trained on the provided dataset to improve its performance in answe
 
 Follow these steps to set up the project locally:
 
-   git clone https://github.com/Islem-1/CodeAlpha_Task_Detection_tracking_system.git
+   git clone https://github.com/Islem-1/mental-health-faq-chatbot.git
    cd mental-health-faq-chatbot
    
